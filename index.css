@@ -2,13 +2,26 @@
 margin: 0 10px;
 }
 .nav {
-    margin: 0 10px;
+  
     width: 100%;
     margin: 0  10px;
-    background-color: grey
+    background-color: maroon;
+    padding: 5px;
+    
    
 }
 .nav-input{
     margin-top: 5px;
     margin-bottom: 5px;
+    background-color: rgba(96, 0, 0, 0.821);
+    border: none;
+    color: white;
+}
+a{
+    color: yellow ;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow ;
+    text-decoration: none;
 }
