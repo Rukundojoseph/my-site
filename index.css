@@ -6,6 +6,8 @@
     background-color: maroon;   
    
     padding-left: 5px;
+    position: fixed;
+    z-index: 100;
        
 }
 
